@@ -1,0 +1,33 @@
+.Calculator
+{
+    text-align: center;
+
+}
+input
+{
+   height: 50px;
+   font-size:18px;
+   padding: 5px;
+   
+  
+}
+h1
+{
+    text-align: center;
+}
+input[type="text"]
+{
+    width:170px;
+    padding:12px;
+    height:20px;
+    margin:10px;
+    font-size:20px;
+    text-align: right;
+    background-color: rgb(212, 209, 209);
+}
+
+input[type="button"]
+{
+    width: 50px;
+   
+}
